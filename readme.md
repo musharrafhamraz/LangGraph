@@ -109,15 +109,4 @@ LangGraph is a library that lets you build stateful applications with LLMs as gr
 Learn more: LangGraph GitHub
 
 📬 Contributing
-Pull requests are welcome! If you have a cool idea or demo using LangGraph, feel free to contribute.
-
-📄 License
-This repository is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to generate the actual folder structure with code stubs too!
+Pull requests are welcome! If you have a cool idea or demo using LangGraph, feel free to contribute
